@@ -13,7 +13,7 @@ function App() {
         }
       </div>
       <footer className="footer">
-        <h3>Copyright &copy; 2021, All Right Reserved.</h3>
+        <h3>&copy; Neflix</h3>
       </footer>
     </>
   );
