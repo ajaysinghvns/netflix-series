@@ -13,7 +13,7 @@ function App() {
         }
       </div>
       <footer className="footer">
-        <h3>&copy; Neflix</h3>
+        <h3>&copy; Netflix Series.</h3>
       </footer>
     </>
   );
